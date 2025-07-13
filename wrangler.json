@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "zrlog-test-d1-template",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4deb0c56-3a52-4242-81b7-54103c7f6c26",
+      "database_name": "zrlog-test-d1-template-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
